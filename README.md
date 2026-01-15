@@ -76,3 +76,6 @@ This configuration can be modified in `config.py` under the `MOBILE_DEVICE` dict
 Screenshots are saved in the `screenshots/` directory with timestamps.
 
 Default screenshot: `streamer_page_mobile.png`
+
+![floww](https://github.com/user-attachments/assets/337d6d67-a99e-466c-8b0a-60ed712826cd)
+
