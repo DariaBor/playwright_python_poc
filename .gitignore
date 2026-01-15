@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+.venv
+
+# Pytest
+.pytest_cache/
+.pytest_cache
+.cache
+*.pytest_cache
+
+# Test artifacts
+screenshots/
+videos/
+test_results/
+*.log
+
+# Playwright
+.playwright/
